@@ -1,0 +1,66 @@
+{
+ "message": "查询成功",
+ "status": "200",
+ "result": [
+      {
+      "shopId": 2,
+      "shopName": "文玩核桃专卖店",
+      "cartlist": [
+        {
+          "id": 2,
+          "shopId": 2,
+          "shopName": "文玩核桃专卖店",
+          "defaultPic": "http://img2.woyaogexing.com/2017/08/18/b7c067eae863b418!400x400_big.jpg",
+          "productId": 2,
+          "productName": "采蘑菇的小女孩",
+          "color": null,
+          "size": null,
+          "price": "500",
+          "count": "5"
+        },
+        {
+          "id": 2,
+          "shopId": 2,
+          "shopName": "文玩核桃专卖店",
+          "defaultPic": "http://img2.woyaogexing.com/2017/08/18/3b43c84d61f725f5!400x400_big.jpg",
+          "productId": 3,
+          "productName": "天使的容貌",
+          "color": null,
+          "size": null,
+          "price": "60",
+          "count": "3"
+        }
+      ]
+    },
+    {
+      "shopId": 3,
+      "shopName": "图片小店",
+      "cartlist": [
+        {
+          "id": 2,
+          "shopId": 3,
+          "shopName": "图片小店",
+          "defaultPic": "http://img2.woyaogexing.com/2017/08/18/54c05174e98bc367!400x400_big.jpg",
+          "productId": 5,
+          "productName": "小女孩",
+          "color": null,
+          "size": null,
+          "price": "360",
+          "count": "1"
+        },
+        {
+          "id": 2,
+          "shopId": 3,
+          "shopName": "图片小店",
+          "defaultPic": "http://img2.woyaogexing.com/2017/08/18/b806cd7cefc5355d!400x400_big.jpg",
+          "productId": 6,
+          "productName": "阳光Boy",
+          "color": null,
+          "size": null,
+          "price": "421",
+          "count": "3"
+        }
+      ]
+    }
+  ]
+}
